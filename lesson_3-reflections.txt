@@ -13,3 +13,7 @@ Forks are remote clones, and clones are copies of a repository on local drive. B
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can continue work on the repository while being offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be harder without version control.
