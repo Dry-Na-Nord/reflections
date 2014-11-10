@@ -17,3 +17,7 @@ You can continue work on the repository while being offline.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 It would be harder without version control.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I make some experimental feature that should be reviewed before it can be incorporated into main branch.
