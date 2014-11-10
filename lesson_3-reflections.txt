@@ -9,3 +9,7 @@ Because you want control over the versions in both local and cloud repository.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are remote clones, and clones are copies of a repository on local drive. Branch is group of commits (changes) made to one repository that can be reached from one position.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can continue work on the repository while being offline.
