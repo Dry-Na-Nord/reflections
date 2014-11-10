@@ -5,3 +5,23 @@ It creatse new hidden file called ".git". It's needed to track changes of files 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is intermediary between directory and repository. It is used to create logical whole which can be transfered to repository at once.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can add all files to staging area that make one logical whole, and then commit them to the repository at once.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+They can serve for purpose of making another versions of the code while keeping old code intact on the main branch.
+
+How do the diagrams help you visualize the branch structure?
+
+It's easier because it's graphical.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It collects changes from both branches and adds them to the file, and then merges both branches into one.
+
+What are the pros and cons of Git's automatic merging vs. always doing merging manually?
+
+Pros: automatization. Cons: conflicts.
